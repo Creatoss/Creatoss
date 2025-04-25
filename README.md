@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Creatoss/Creatoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on Eventini 
 - 🌱 I’m currently learning Android app development , Spring Boot , Spring Data Jpa , Spring Security , ReactJs 
@@ -9,9 +8,9 @@
 
 ## 📲 **Connect with Me**
 
-- **[Facebook](https://www.facebook.com/ghaith.hamzaoui.5)**
-- **[LinkedIn](www.linkedin.com/in/mohamed-ghaith-hamzaoui-007980291)**
-- **[Instagram](https://www.instagram.com/yourusername)**
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]((https://www.facebook.com/ghaith.hamzaoui.5)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-ghaith-hamzaoui-007980291)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ghaith.hz)
 
 ## 💻 **Languages & Tools**
 
