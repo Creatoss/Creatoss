@@ -1,6 +1,6 @@
 
-- 🔭 I’m currently working on Eventini 
-- 🌱 I’m currently learning Android app development , Spring Boot , Spring Data Jpa , Spring Security , ReactJs 
+- 🔭 I’m currently working on Pitchi 
+- 🌱 I’m currently learning Android Generative AI , Three JS  
 - 📫 How to reach me: mohamedghaith.hamzaoui@enicar.ucar.tn
 
 ## 🌍 Connect with Me
