@@ -5,9 +5,9 @@
 
 ## 🌍 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ghaith.hamzaoui.5)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ghaith-hamzaoui-007980291)
-[![Website](https://img.icons8.com/?size=20&id=brKZ5VbQ70HP&format=png&color=000000)](https://mohamedghaithhamzaoui.me/Portfolio_2.0/)
+[![Facebook](https://img.icons8.com/?size=40&id=13912&format=png&color=000000)](https://www.facebook.com/ghaith.hamzaoui.5)
+[![LinkedIn](https://img.icons8.com/?size=40&id=60ZV_wYC0BM2&format=png&color=000000)](https://linkedin.com/in/mohamed-ghaith-hamzaoui-007980291)
+[![Website](https://img.icons8.com/?size=40&id=brKZ5VbQ70HP&format=png&color=000000)](https://mohamedghaithhamzaoui.me/Portfolio_2.0/)
 
 
 ## 💻 **Languages & Tools**
