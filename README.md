@@ -7,7 +7,7 @@
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ghaith.hamzaoui.5)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ghaith-hamzaoui-007980291)
-[![Website](https://img.icons8.com/?size=100&id=brKZ5VbQ70HP&format=png&color=000000)](https://mohamedghaithhamzaoui.me/Portfolio_2.0/)
+[![Website](https://img.icons8.com/?size=20&id=brKZ5VbQ70HP&format=png&color=000000)](https://mohamedghaithhamzaoui.me/Portfolio_2.0/)
 
 
 ## 💻 **Languages & Tools**
